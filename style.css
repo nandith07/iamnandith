@@ -5,7 +5,7 @@
 }
 
 body {
-    color: #72f1b8;
+    color: #145347;
     font-family: 'Montserrat';
     margin: 0; /* TODO: remove when have reset */
 }
@@ -41,7 +41,7 @@ body {
 
 .footer__link {
     display: inline-block;
-    color: #72f1b8;
+    color: #9672f1;
     text-decoration: none; /* TODO: remove when have reset */
 }
 
